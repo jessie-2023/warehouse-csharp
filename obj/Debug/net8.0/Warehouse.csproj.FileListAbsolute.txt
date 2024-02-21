@@ -1,0 +1,14 @@
+C:\Users\JesXie\OneDrive - Softwire Technology Limited\Desktop\c#\Warehouse\obj\Debug\net8.0\Warehouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JesXie\OneDrive - Softwire Technology Limited\Desktop\c#\Warehouse\obj\Debug\net8.0\Warehouse.AssemblyInfoInputs.cache
+C:\Users\JesXie\OneDrive - Softwire Technology Limited\Desktop\c#\Warehouse\obj\Debug\net8.0\Warehouse.AssemblyInfo.cs
+C:\Users\JesXie\OneDrive - Softwire Technology Limited\Desktop\c#\Warehouse\obj\Debug\net8.0\Warehouse.csproj.CoreCompileInputs.cache
+C:\Users\JesXie\OneDrive - Softwire Technology Limited\Desktop\c#\Warehouse\bin\Debug\net8.0\Warehouse.exe
+C:\Users\JesXie\OneDrive - Softwire Technology Limited\Desktop\c#\Warehouse\bin\Debug\net8.0\Warehouse.deps.json
+C:\Users\JesXie\OneDrive - Softwire Technology Limited\Desktop\c#\Warehouse\bin\Debug\net8.0\Warehouse.runtimeconfig.json
+C:\Users\JesXie\OneDrive - Softwire Technology Limited\Desktop\c#\Warehouse\bin\Debug\net8.0\Warehouse.dll
+C:\Users\JesXie\OneDrive - Softwire Technology Limited\Desktop\c#\Warehouse\bin\Debug\net8.0\Warehouse.pdb
+C:\Users\JesXie\OneDrive - Softwire Technology Limited\Desktop\c#\Warehouse\obj\Debug\net8.0\Warehouse.dll
+C:\Users\JesXie\OneDrive - Softwire Technology Limited\Desktop\c#\Warehouse\obj\Debug\net8.0\refint\Warehouse.dll
+C:\Users\JesXie\OneDrive - Softwire Technology Limited\Desktop\c#\Warehouse\obj\Debug\net8.0\Warehouse.pdb
+C:\Users\JesXie\OneDrive - Softwire Technology Limited\Desktop\c#\Warehouse\obj\Debug\net8.0\Warehouse.genruntimeconfig.cache
+C:\Users\JesXie\OneDrive - Softwire Technology Limited\Desktop\c#\Warehouse\obj\Debug\net8.0\ref\Warehouse.dll
