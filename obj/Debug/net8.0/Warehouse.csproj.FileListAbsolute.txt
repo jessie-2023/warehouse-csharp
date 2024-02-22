@@ -12,3 +12,4 @@ C:\Users\JesXie\OneDrive - Softwire Technology Limited\Desktop\c#\Warehouse\obj\
 C:\Users\JesXie\OneDrive - Softwire Technology Limited\Desktop\c#\Warehouse\obj\Debug\net8.0\Warehouse.pdb
 C:\Users\JesXie\OneDrive - Softwire Technology Limited\Desktop\c#\Warehouse\obj\Debug\net8.0\Warehouse.genruntimeconfig.cache
 C:\Users\JesXie\OneDrive - Softwire Technology Limited\Desktop\c#\Warehouse\obj\Debug\net8.0\ref\Warehouse.dll
+C:\Users\JesXie\OneDrive - Softwire Technology Limited\Desktop\c#\Warehouse\obj\Debug\net8.0\Warehouse.sourcelink.json
